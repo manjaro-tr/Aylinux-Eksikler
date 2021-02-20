@@ -1,1 +1,3 @@
 # Aylinux-Eksikler
+
+Aylinux 2021 üzerinde görülen eksikleri burada paylaşacağız...
